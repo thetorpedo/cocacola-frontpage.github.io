@@ -11,9 +11,7 @@ A empresa escolhida foi a **Coca-Cola**, com foco na fidelidade visual e respons
 
 - HTML5  
 - CSS3  
-- JavaScript
 - Bootstrap 5  
-- jQuery  
 - Google Fonts  
 - Font Awesome / Bootstrap Icons
 
